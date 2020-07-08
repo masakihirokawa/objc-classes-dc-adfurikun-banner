@@ -36,7 +36,7 @@ NSString *const ADFURIKUN_AD_UNIT_ID = @"広告枠ID";
 
 ### e.x. Info.plistの編集
 
-[AdMob](https://admob.google.com/intl/ja/home/ "AdMob")を使用する場合は _Info.plist_に _GADApplicationIdentifier_の設定値を追加してください。
+[AdMob](https://admob.google.com/intl/ja/home/ "AdMob")を使用する場合は *Info.plist*に *GADApplicationIdentifier*の設定値を追加してください。
 
 ## クラスの使用方法
 
