@@ -103,7 +103,6 @@ static id sharedInstance = nil;
     }
 }
 
-
 #pragma mark - delegate method
 
 // バナーの取得に成功した時に呼ばれる
