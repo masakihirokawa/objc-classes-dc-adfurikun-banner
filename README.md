@@ -1,8 +1,10 @@
 # DCAdfurikunBanner
 
-iPhoneアプリに[アドフリくん](https://adfurikun.jp/ "アドフリくん")のモバイルバナー（Ver. 2）を表示する「[DCAdfurikunBanner](https://github.com/masakihirokawa/objc-classes-dc-adfurikun-banner "DCAdfurikunBanner")」クラスです。
+iPhoneアプリに[アドフリくん](https://adfurikun.jp/ "アドフリくん")のモバイルバナー（Ver. 2）を表示する「DCAdfurikunBanner」クラスです。
 
-[公式マニュアル](https://github.com/glossom-dev/AdfurikunSDK-iOS/wiki "公式マニュアル")を参考にさせていただき、10秒毎にバナーがリフレッシュされるよう実装しております。ご使用の際は広告枠IDを指定してください。
+[公式マニュアル](https://github.com/glossom-dev/AdfurikunSDK-iOS/wiki "公式マニュアル")を参考にさせていただき、10秒毎にバナーがリフレッシュされるよう実装しております。
+
+ご使用の際は広告枠IDを指定してください。
 
 ## 導入準備
 
