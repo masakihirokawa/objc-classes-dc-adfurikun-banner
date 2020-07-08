@@ -1,0 +1,6 @@
+module Pods_DCAdfurikunBannerSample {
+  umbrella header "Pods-DCAdfurikunBannerSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
