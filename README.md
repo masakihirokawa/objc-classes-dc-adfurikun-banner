@@ -1,4 +1,4 @@
-# DCAdfurikunBanner
+# アドフリくんバナーを表示する「DCAdfurikunBanner」クラス
 
 iPhoneアプリに[アドフリくん](https://adfurikun.jp/ "アドフリくん")のモバイルバナー（Ver. 2）を表示する「DCAdfurikunBanner」クラスです。
 
